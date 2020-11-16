@@ -2,7 +2,7 @@
 
 I made the disparity refinement project for Intel Realsense D400 series. It's based on the C++ & CUDA.
 
-The enviroment for testing is below.
+The environment for testing is below.
 - Intel Realsense D435 camera ([848 x 480], [1280 x 720])
 - OS : Windows 10
 - IDE : Visual studio 2015 community
