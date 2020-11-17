@@ -13,8 +13,8 @@ The environment for testing is below.
 # Dependency for testing
 - Opencv 4.1.0
 - Realsense SDK 2.24
-- SDL2
-- glew
+- SDL2 : https://www.libsdl.org/download-2.0.php
+- glew : http://glew.sourceforge.net/
 - CUDA 10.1
 
 # This method consists of several modules.
