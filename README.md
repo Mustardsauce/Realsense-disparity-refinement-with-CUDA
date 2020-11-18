@@ -4,8 +4,9 @@ I made the disparity refinement project for Intel Realsense D400 series. It's ba
 I did the disparity re-computation about the IR pair(left & right) from Intel Realsense D435.
 
 I referred "SOS: Stereo Matching in O(1) with Slanted Support Windows" and "HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching" which are based on the tile disparity.
-SOS paper : https://ieeexplore.ieee.org/abstract/document/8593800
-HITNet paper : https://arxiv.org/abs/2007.12140
+
+- SOS paper : https://ieeexplore.ieee.org/abstract/document/8593800
+- HITNet paper : https://arxiv.org/abs/2007.12140
 
 
 The environment for testing is below.
