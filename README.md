@@ -24,10 +24,10 @@ The environment for testing is below.
 - glew : http://glew.sourceforge.net/
 - CUDA 10.1
 
-# This method consists of several modules.
+# The method consists of several modules
 
-- (1) Census transform
-- (2) Disparity to tile
+- (1) Census transform.
+- (2) Disparity to tile.
 - (3) Tile disparity refinement using the parabola fitting.
 - (4) Tile slant estimation using the eigen value decomposition.
 - (5) per pixel estimation based on the tile.
