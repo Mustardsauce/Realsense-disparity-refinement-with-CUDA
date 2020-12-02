@@ -47,3 +47,4 @@ The environment for testing is below.
 
 # TODO
 Please use this method and give me a comment about this.
+* I'm trying to change the build type to cmake.
