@@ -1,6 +1,7 @@
 *.i
 *.ii
 *.gpu
+*.cu
 *.ptx
 *.cubin
 *.fatbin
